@@ -1,4 +1,38 @@
-### Hi there 👋
+# shintani-dev
+
+## 🔭 I’m currently working on...
+
+### Front-end
+
+- nothing
+
+### Back-end
+
+- Ruby on Rails
+
+### DevOps
+
+- Google Cloud
+  - Compute Engine
+  - etc...
+- CircleCI
+- GitHub Actions
+- Ansible
+- Terraform
+
+## 🌱 I’m currently learning...
+
+### Front-end
+
+- nothing
+
+### Back-end
+
+- Golang
+
+### DevOps
+
+- CircleCI
 
 <!--
 **shintani-dev/shintani-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
