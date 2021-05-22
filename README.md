@@ -1,10 +1,8 @@
 # shintani-dev
 
+[My Gist here.](https://gist.github.com/shintani-dev)
+
 ## 🔭 I’m currently working on...
-
-### Front-end
-
-- nothing
 
 ### Back-end
 
@@ -22,17 +20,11 @@
 
 ## 🌱 I’m currently learning...
 
-### Front-end
-
-- nothing
-
-### Back-end
-
-- Golang
-
-### DevOps
-
-- CircleCI
+- Windows
+  - PowerShell
+- Security advisory
+- Spring Boot
+- Ionic
 
 <!--
 **shintani-dev/shintani-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
