@@ -4,27 +4,22 @@
 
 ## 🔭 I’m currently working on...
 
+### Front-end
+
+1. Ionic
+1. Flutter
+
 ### Back-end
 
-- Ruby on Rails
-
-### DevOps
-
-- Google Cloud
-  - Compute Engine
-  - etc...
-- CircleCI
-- GitHub Actions
-- Ansible
-- Terraform
+1. Ruby on Rails
+1. Spring
 
 ## 🌱 I’m currently learning...
 
-- Windows
-  - PowerShell
-- Security advisory
-- Spring Boot
-- Ionic
+1. Windows
+  1. PowerShell
+1. Security advisory
+1. Spring Boot
 
 <!--
 **shintani-dev/shintani-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
