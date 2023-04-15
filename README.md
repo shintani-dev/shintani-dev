@@ -17,7 +17,7 @@
 ## 🌱 I’m currently learning...
 
 1. Windows
-  1. PowerShell
+    1. PowerShell
 1. Security advisory
 1. Spring Boot
 
